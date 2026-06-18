@@ -67,12 +67,19 @@ was associated with measurable progress in income equality worldwide.
 ---
  
 ## 🔧 Electronics & Hardware
- 
+
 ### 🥽 AR Glasses — Computer Vision + Hardware
-**Undergraduate Final Project**
- 
+**Undergraduate Final Project · SBCE, 2024**
+
 Built augmented reality glasses using Raspberry Pi and OpenCV.
-Hardware design meets visual AI — where my two worlds first connected.
+Hardware design meets visual AI — where my two worlds first connected. 🔗 [View Project Repository](https://github.com/Anandhu-Sudha/Smart-VR-Glasses)
+
+📄 **Published Paper:** Augmented Reality for Real World Enhancement — Enabling Object Recognition and Scenario Interpretation Through Smart Specs
+*Recent Advance and Innovation in Science, Engineering, Technology and Management, 2024*
+**Authors:** Anandhu S, Ann Mary Shibu, A Akhil
+ 🔗 [View Publication](https://old.sbce.ac.in/branches/paper-publications-2/)
+
+
  
 ---
  
